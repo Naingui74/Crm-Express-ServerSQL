@@ -79,7 +79,7 @@ DB_HOST=**db**
 
 DB_USER=**user**
 
-DB_PASSWORD=***userpassword**
+DB_PASSWORD=**userpassword**
 
 DB_NAME=**my_database**
 
