@@ -76,9 +76,13 @@ npm start
 6. **Le fichier .env doit contenir les informations suivantes :**
 
 DB_HOST=**db**
+
 DB_USER=**user**
+
 DB_PASSWORD=***userpassword**
+
 DB_NAME=**my_database**
+
 JWT_SECRET=**your_jwt_secret**
 
 ## Routes API
