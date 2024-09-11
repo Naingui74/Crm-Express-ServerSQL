@@ -1,11 +1,11 @@
 # CRM Boounce
 
-[![NPM][npm-shield]][npm-url]
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+![JWT](https://img.shields.io/badge/JSON%20Web%20Token-000000?style=flat&logo=json-web-tokens&logoColor=white)
+![Bcrypt.js](https://img.shields.io/badge/bcrypt.js-FD6D2F?style=flat&logo=bcrypt&logoColor=white)
 
 
 ## Présentation
