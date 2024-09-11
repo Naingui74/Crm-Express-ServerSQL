@@ -1,5 +1,12 @@
 # CRM Boounce
 
+[![NPM][npm-shield]][npm-url]
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+
 ## Présentation
 
 Bienvenue dans le système de gestion de la relation client (CRM) développé pour l'entreprise Boounce. Ce CRM a été conçu pour gérer efficacement les utilisateurs et les entreprises, avec des fonctionnalités robustes pour l'administration et la gestion des données.
